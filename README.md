@@ -38,7 +38,7 @@ Import this component and register it to your vue instance, then you can use it 
 ### >Sample Code
 
 ```
-//supposed the component name is 'rangeDatepicker'
+//supposed the component's name is 'rangeDatepicker'
 
 <range-datepicker @confirm="function" :dateValue="dateArray"></range-datepicker>
 
