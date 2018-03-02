@@ -29,6 +29,7 @@ Import this component and register it to your vue instance, then you can use it 
 
 
 **events**
+
 |event|description|return value|
 |:-|:-|:-|
 |confirm|It would be triggered when the confirm button or the shortcut button is clicked.|An Array contained two Date type items.|
