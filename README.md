@@ -1,5 +1,5 @@
 # rangeDatepicker
-A secondary developing vue component based upon the DatePicker component of iView.
+A secondary development based upon the DatePicker component of iView.
 
 
 ## Description
