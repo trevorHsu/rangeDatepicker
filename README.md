@@ -25,7 +25,7 @@ Import this component and register it to your vue instance, then you can use it 
 |dateValue|The date value which is an Array contained two Date type items.|Array|An empty Array|
 |dateType|Setting the methods you can use to select time. The optional value is **'date'** & **'datetime'**. <br/>**'date'**: chose date;<br/>**'datetime'**: chose date and time.|String|date|
 |size|The size of the component. The optional value is **'default'** & **'large'**.|String|default|
-|width|The width of the component.|Number|It can ajust the width automatically according to the setting of 'dateType' and 'size'.|
+|width|The width of the component.|Number|The width can adjust itself automatically according to the setting of 'dateType' and 'size'.|
 
 
 **events**
