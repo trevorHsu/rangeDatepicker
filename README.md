@@ -20,7 +20,7 @@ Import this component and register it to your vue instance, then you can use it 
 
 **props**
 
-|**property**|**description**|**value type**|**default value**|
+|**Property**|**Description**|**Type**|**Default Value**|
 |:-|:-|:-|:-|
 |dateValue|The date value which is an Array contained two Date type items.|Array|An empty Array|
 |dateType|Setting the methods you can use to select time. The optional value is **'date'** & **'datetime'**. <br/>**'date'**: chose date;<br/>**'datetime'**: chose date and time.|String|date|
@@ -30,7 +30,7 @@ Import this component and register it to your vue instance, then you can use it 
 
 **events**
 
-|event|description|return value|
+|Event|Description|Return Value|
 |:-|:-|:-|
 |confirm|It would be triggered when the confirm button or the shortcut button is clicked.|An Array contained two Date type items.|
 
