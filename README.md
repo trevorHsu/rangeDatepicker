@@ -7,7 +7,7 @@ If you are developing your web page through iView and seeking a different style 
 
 This datepicker component has a different appearance compared with iView's, which comprises of two DatePicker component of iView. 
 
-## Before use it
+## Before use
 You should install iView before using this component.
 ```
 $ npm install iview --save
