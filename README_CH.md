@@ -3,7 +3,7 @@
 # rangeDatepicker
 基于iView的DatePicker组件进行的二次开发。
 
-## Description
+## 说明
 如果你正在使用iView作为你的UI库，并且希望使用一种不同样式的DatePicker组件，请试试这个组件。
 
 这个时间选择组件的样式不同于iView的样式，它实际上是由两个iView的DatePicker组件组成的。
