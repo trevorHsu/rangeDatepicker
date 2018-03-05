@@ -1,4 +1,4 @@
-[English](https://github.com/trevorHsu/rangeDatepicker/blob/master/README.md)
+[English Version Document](https://github.com/trevorHsu/rangeDatepicker/blob/master/README.md)
 
 # rangeDatepicker
 基于iView的DatePicker组件进行的二次开发。
