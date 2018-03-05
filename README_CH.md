@@ -25,7 +25,7 @@ $ npm install iview --save
 |:-|:-|:-|:-|
 |dateValue|时间值，是一个数组，其中包含两个Date类型的值。|Array|空数组|
 |dateType|配置选择时间的方式。可选值为 **“date”** 和 **“datetime”**。 <br/>**“date”**: 选择日期;<br/>**“datetime”**: 选择日期与时间。|String|date|
-|size|组件的尺寸。 可选值为 **“default”** & **“large”**。|String|default|
+|size|组件的尺寸。 可选值为 **“default”** 和 **“large”**。|String|default|
 |width|组件的宽度。|Number|组件宽度可以根据“dateType”和“size”的设置自动调整。|
 
 
