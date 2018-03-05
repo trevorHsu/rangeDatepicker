@@ -1,3 +1,5 @@
+[中文]()
+
 # rangeDatepicker
 A secondary development based upon the DatePicker component of iView.
 
@@ -30,7 +32,7 @@ Import this component and register it to your vue instance, then you can use it 
 
 **events**
 
-|Event|Description|Return Value|
+|**Event**|**Description**|**Return Value**|
 |:-|:-|:-|
 |confirm|It would be triggered when the confirm button or the shortcut button is clicked.|An Array contained two Date type items.|
 
