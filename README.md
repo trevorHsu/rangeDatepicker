@@ -1,4 +1,4 @@
-[中文]()
+[中文文档](https://github.com/trevorHsu/rangeDatepicker/blob/master/README_CH.md)
 
 # rangeDatepicker
 A secondary development based upon the DatePicker component of iView.
